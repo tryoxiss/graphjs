@@ -5,6 +5,7 @@ export var config =
 		repel: 1.0,
 		link_force: 1.0,
 		size: 6,
+		gravity: 9.8, // how much do they want to stick together in a ball
 		do_scaling: false,
 
 		color: 'rgb(156, 156, 255)',
