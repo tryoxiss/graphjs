@@ -4,7 +4,7 @@ export var config =
 		mass: 1.0,
 		repel: 1.0,
 		link_force: 1.0,
-		size: 6,
+		size: 7,
 		gravity: 9.8, // how much do they want to stick together in a ball
 		do_scaling: false,
 
@@ -22,5 +22,6 @@ export var config =
 
 	enviornment: {
 		friction: 1.0,
+		tickrate: 20,
 	}
 }
